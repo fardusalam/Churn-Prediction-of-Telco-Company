@@ -1,4 +1,5 @@
-Churn Prediction for Subscription Businesses
+#Churn Prediction for Subscription Businesses.
+
 This project aims to predict customer churn in a subscription-based business using machine learning. Early identification of customers likely to leave enables businesses to take proactive retention measures and improve overall customer satisfaction.
 1. Project Overview
 Goal
